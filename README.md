@@ -1,0 +1,3 @@
+# yapay-zeka
+
+readme
